@@ -6,15 +6,6 @@
 - **Richard Freitas** | RM: 566127 | Turma: 2TDSPF
 - **Thiago Rodrigues da Mota** | RM: 563650 | Turma: 2TDSPF
 
----
-
-## 2. Links dos Vídeos no YouTube
-- **Vídeo Pitch (Apresentação de 5 minutos):** `[Cole o link aqui]`
-- **Vídeo do Aplicativo Funcionando:** `[Cole o link aqui]`
-- **Vídeo da Nuvem e Testes (DevOps):** `[Cole o link aqui]`
-
----
-
 ## 3. A Solução Fix-It
 
 ### Qual é o problema? (A dor)
